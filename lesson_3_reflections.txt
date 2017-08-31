@@ -1,0 +1,2 @@
+when you want to create a remote repository rather than keeping all your work local?
+when i want to save a new version without change the original file
